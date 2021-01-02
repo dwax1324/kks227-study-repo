@@ -8,7 +8,7 @@ https://blog.naver.com/kks227
 <details>
 <summary>
 
-### 순서대로 보기 클릭
+### _순서대로 보기 클릭_
 
 </summary>
 
@@ -81,8 +81,9 @@ https://blog.naver.com/kks227
 </details>
 
 ***
-### 분류
-*** 
+### 분류  
+
+
 #### 기초 알고리즘  
 [1. 빅오 표기법(Big-O notation), 시간복잡도, 공간복잡도](./titles/1.md)  
 [2. 완전 탐색(Brute-force Search)](./titles/2.md)  
