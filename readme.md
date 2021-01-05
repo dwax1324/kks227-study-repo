@@ -12,17 +12,17 @@ https://blog.naver.com/kks227
 
 </summary>
 
-[1. 빅오 표기법(Big-O notation), 시간복잡도, 공간복잡도](./titles/1.md)  
-[2. 완전 탐색(Brute-force Search)](./titles/2.md)  
-[3. 탐욕적 기법(Greedy Algorithm)](./titles/3.md)  
+[1. 빅오 표기법(Big-O notation), 시간복잡도, 공간복잡도 ⭕️](./titles/1.md)  
+[2. 완전 탐색(Brute-force Search) ⭕️](./titles/2.md)  
+[3. 탐욕적 기법(Greedy Algorithm) ](./titles/3.md)  
 [4. 분할 정복(Divide and Conquer)](./titles/4.md)  
-[5. 동적 계획법(Dynamic Programming)](./titles/5.md)  
+[5. 동적 계획법(Dynamic Programming) ⭕️](./titles/5.md)  
 [6. 이분 탐색(Binary Search)](./titles/6.md)  
 [7. 리스트(List), 배열(Array), 연결 리스트(Linked List)](./titles/7.md)  
 [8. 스택(Stack)](./titles/8.md)  
 [9. 큐(Queue), 덱(Dequeue)](./titles/9.md)  
-[10. 깊이 우선 탐색(Depth-First Search)](./titles/10.md)  
-[11. 너비 우선 탐색(Breadth-First Search)](./titles/11.md)  
+[10. 깊이 우선 탐색(Depth-First Search) ⭕️](./titles/10.md)  
+[11. 너비 우선 탐색(Breadth-First Search) ⭕️](./titles/11.md)  
 [12. 백트래킹(Backtracking)](./titles/12.md)  
 [13. 비트마스킹(Bit Masking)](./titles/13.md)  
 [14. 구간합 배열(Prefix Sum)](./titles/14.md)  
