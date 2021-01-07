@@ -5,12 +5,8 @@ https://blog.naver.com/kks227
 
 ***
 
-<details>
-<summary>
 
-### _순서대로 보기 클릭_
-
-</summary>
+### _순서대로 보기_
 
 [1. 빅오 표기법(Big-O notation), 시간복잡도, 공간복잡도 ⭕️](./titles/1.md)  
 [2. 완전 탐색(Brute-force Search) ⭕️](./titles/2.md)  
@@ -78,7 +74,6 @@ https://blog.naver.com/kks227
 [64. 고속 푸리에 변환(Fast Fourier Transform)](./titles/64.md)  
 [65. 중국인의 나머지 정리(Chinese Remainder Theorem)](./titles/65.md)  
 
-</details>
 
 ***
 ### 분류  
