@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 
 
-ausing namespace std;
+aausing namespace std;
 
 
 int main(){
