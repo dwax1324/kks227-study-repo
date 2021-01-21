@@ -104,17 +104,13 @@ https://blog.naver.com/kks227
 [49. 밋 인 더 미들(Meet in the Middle)](./tags/49.md)  
 [56. 병렬 이분 탐색(Parallel Binary Search)](./tags/56.md)  
 [62. 삼분 탐색(Ternary Search)](./tags/62.md)  
-***
 #### 동적계획법
-
 [5. 동적 계획법(Dynamic Programming)](./tags/5.md)  
 [20. 동적 계획법 2(Dynamic Programming 2)](./tags/20.md)  
 [50. 동적 계획법 3(Dynamic Programming 3)](./tags/50.md)  
 [51. 동적 계획법 4(Dynamic Programming 4)](./tags/51.md)  
 [52. 동적 계획법 5(Dynamic Programming 5)](./tags/52.md)  
-***
 #### 트리  
-
 [15. 트리(Tree)](./tags/15.md)  
 [16. 이진 검색 트리(Binary Search Tree)](./tags/16.md)  
 [17. 우선순위 큐(Priority Queue)](./tags/17.md)  
@@ -127,8 +123,6 @@ https://blog.naver.com/kks227
 [40. 최소 공통 조상(Lowest Common Ancestor)](./tags/40.md)  
 [41. 레이지 프로퍼게이션(Lazy Propagation)](./tags/41.md)  
 [55. 평방 분할(Square Root Decomposition), 모스 알고리즘(Mo's Algorithm)](./tags/55.md)  
-
-***
 #### 그래프  
 [25. 다익스트라 알고리즘(Dijkstra's Algorithm)](./tags/25.md)  
 [26. 벨만 포드 알고리즘(Bellman-Ford Algorithm)](./tags/26.md)  
@@ -146,27 +140,18 @@ https://blog.naver.com/kks227
 [38. 디닉 알고리즘(Dinic's Algorithm)](./tags/38.md)  
 [39. 호프크로프트 카프 알고리즘 (Hopcroft-Karp Algorithm)](./tags/39.md)  
 [61. 서큘레이션(Circulation)](./tags/61.md)  
-
-***
 #### 문자열  
-
 [44. KMP 알고리즘(Knuth–Morris–Pratt Algorithm)](./tags/44.md)  
 [45. 라빈 카프 알고리즘(Rabin-Karp Algorithm)](./tags/45.md)  
 [46. 트라이(Trie)](./tags/46.md)  
 [47. 아호코라식(Aho-Corasick)](./tags/47.md)  
 [48. 접미사 배열(Suffix Array)](./tags/48.md)  
-
-***
 #### 수학  
-
 [21. 에라토스테네스의 체(Sieve of Eratosthenes)](./tags/21.md)  
 [59. 확장 유클리드 알고리즘(Extended Euclidean Algorithm)](./tags/59.md)  
 [65. 중국인의 나머지 정리(Chinese Remainder Theorem)](./tags/65.md)  
 [64. 고속 푸리에 변환(Fast Fourier Transform)](./tags/64.md)  
-
-***
 #### 기하  
-
 [23. 기하 - 벡터의 활용(geometry)](./tags/23.md)  
 [42. 볼록 껍질(Convex Hull)](./tags/42.md)  
 [60. 컨벡스 헐 트릭(Convex Hull Trick)](./tags/60.md)  
