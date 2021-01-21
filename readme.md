@@ -114,7 +114,7 @@ https://blog.naver.com/kks227
 [16. 이진 검색 트리(Binary Search Tree)](./tags/16.md)  
 [17. 우선순위 큐(Priority Queue)](./tags/17.md)  
 [18. 유니온 파인드(Union-Find)](./tags/18.md)  
-[19. 세그먼트 트리(Segment Tree)](./tags/19.md) 
+[19. 세그먼트 트리(Segment Tree)](./tags/19.md)  
 [53. 머지 소트 트리(Merge Sort Tree)](./tags/53.md)  
 [54. 오프라인 쿼리(Offline Query)](./tags/54.md)  
 [57. 퍼시스턴트 세그먼트 트리(Persistent Segment Tree)](./tags/57.md)  
