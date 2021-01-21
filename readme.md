@@ -3,7 +3,6 @@ https://blog.naver.com/kks227
 
 ## kks227 블로그 소화용 repo
 
-***
 
 
 ### _순서별_
