@@ -8,6 +8,8 @@ https://blog.naver.com/kks227
 
 ### _순서대로 보기_
 
+
+#### 초급
 [1. 빅오 표기법(Big-O notation), 시간복잡도, 공간복잡도 ⭕️](./tags/1.md)  
 [2. 완전 탐색(Brute-force Search) ⭕️](./tags/2.md)  
 [3. 탐욕적 기법(Greedy Algorithm) ](./tags/3.md)  
@@ -25,6 +27,8 @@ https://blog.naver.com/kks227
 [15. 트리(Tree) ⭕️](./tags/15.md)  
 [16. 이진 검색 트리(Binary Search Tree) ⭕️](./tags/16.md)  
 [17. 우선순위 큐(Priority Queue)](./tags/17.md)  
+
+#### 중급
 [18. 유니온 파인드(Union-Find)](./tags/18.md)  
 [19. 세그먼트 트리(Segment Tree)](./tags/19.md)  
 [20. 동적 계획법 2(Dynamic Programming 2)](./tags/20.md)  
@@ -60,6 +64,7 @@ https://blog.naver.com/kks227
 [50. 동적 계획법 3(Dynamic Programming 3)](./tags/50.md)  
 [51. 동적 계획법 4(Dynamic Programming 4)](./tags/51.md)  
 [52. 동적 계획법 5(Dynamic Programming 5)](./tags/52.md)  
+#### 고급
 [53. 머지 소트 트리(Merge Sort Tree)](./tags/53.md)  
 [54. 오프라인 쿼리(Offline Query)](./tags/54.md)  
 [55. 평방 분할(Square Root Decomposition), 모스 알고리즘(Mo's Algorithm)](./tags/55.md)  
