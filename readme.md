@@ -25,7 +25,7 @@ https://blog.naver.com/kks227
 [14. 구간합 배열(Prefix Sum)](./tags/14.md)  
 [15. 트리(Tree) ⭕️](./tags/15.md)  
 [16. 이진 검색 트리(Binary Search Tree) ⭕️](./tags/16.md)  
-[17. 우선순위 큐(Priority Queue)](./tags/17.md)  
+[17. 우선순위 큐(Priority Queue) ⭕️](./tags/17.md)  
 
 #### 중급
 [18. 유니온 파인드(Union-Find)](./tags/18.md)  
