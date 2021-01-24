@@ -34,7 +34,7 @@ https://blog.naver.com/kks227
 [21. 에라토스테네스의 체(Sieve of Eratosthenes)](./tags/21.md)  
 [22. 희소 테이블(Sparse Table) (수정: 2019-11-16)❌](./tags/22.md)  
 [23. 기하 - 벡터의 활용(geometry)❌](./tags/23.md)  
-[24. 투 포인터(Two Pointers Algorithm), 슬라이딩 윈도우(Sliding Window)](./tags/24.md)  
+[24. 투 포인터(Two Pointers Algorithm), 슬라이딩 윈도우(Sliding Window)❌](./tags/24.md)  
 [25. 다익스트라 알고리즘(Dijkstra's Algorithm)](./tags/25.md)  
 [26. 벨만 포드 알고리즘(Bellman-Ford Algorithm)](./tags/26.md)  
 [27. 플로이드 와샬 알고리즘(Floyd-Warshall Algorithm)](./tags/27.md)  
